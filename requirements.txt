@@ -1,0 +1,7 @@
+wordcloud==1.8.2.2
+textblob==0.17.1
+pandas==1.4.4
+streamlit==1.20.0
+cleantext==1.1.4
+matplotlib==3.7.1
+seaborn==0.12.2
